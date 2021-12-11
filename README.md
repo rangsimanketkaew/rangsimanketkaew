@@ -1,6 +1,7 @@
 ## Welcome to my Github 👋
 
-Interests 😄
+Interests:
+
 ✒️ Quantum chemistry (Density functional theory) <br>
 ✒️ Molecular dynamics (Enhanced sampling) <br>
 ✒️ Machine learning (Autoencoder and graph neural net) <br>
